@@ -1,3 +1,0 @@
-#!/bin/bash
-# print current working directory
-echo "pwd"
